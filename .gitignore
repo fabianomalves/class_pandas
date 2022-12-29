@@ -4,6 +4,7 @@ __pycache__
 *.csv
 *.db
 *.xlsx
+*.venv
 
 .vscode/
 data/*.py
